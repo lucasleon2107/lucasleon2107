@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Leon</h1>
 <h3 align="center">A passionate Java/Kotlin developer from Peru</h3>
 
-- 🌱 I’m currently learning **Docker, Kubernetes and CI/CD**
+- 🌱 I’m currently learning **DSA, Docker, Kubernetes and CI/CD**
 
 - 💬 Ask me about **Java, Kotlin and backend development**
 
