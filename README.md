@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DSA, Docker, Kubernetes and CI/CD**
 
-- 💬 Ask me about **Java, Kotlin and backend development**
+- 💬 Ask me about **Java, Kotlin and Spring Boot**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/lucas-leon/](https://www.linkedin.com/in/lucas-leon/)
 
